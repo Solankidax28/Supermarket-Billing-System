@@ -1,0 +1,62 @@
+[
+    {
+        "id": "P001",
+        "name": "Basmati Rice 1kg",
+        "price": 85.0,
+        "quantity": 98
+    },
+    {
+        "id": "P002",
+        "name": "Wheat Flour 1kg",
+        "price": 45.0,
+        "quantity": 49
+    },
+    {
+        "id": "P003",
+        "name": "Sugar 1kg",
+        "price": 42.0,
+        "quantity": 60
+    },
+    {
+        "id": "P004",
+        "name": "Sunflower Oil 1L",
+        "price": 140.0,
+        "quantity": 30
+    },
+    {
+        "id": "P005",
+        "name": "Toor Dal 1kg",
+        "price": 120.0,
+        "quantity": 25
+    },
+    {
+        "id": "P006",
+        "name": "Tea Powder 250g",
+        "price": 110.0,
+        "quantity": 35
+    },
+    {
+        "id": "P007",
+        "name": "Milk 1L",
+        "price": 56.0,
+        "quantity": 39
+    },
+    {
+        "id": "P008",
+        "name": "Biscuits Pack",
+        "price": 10.0,
+        "quantity": 99
+    },
+    {
+        "id": "P009",
+        "name": "Bath Soap",
+        "price": 38.0,
+        "quantity": 40
+    },
+    {
+        "id": "P010",
+        "name": "Toothpaste 100g",
+        "price": 95.0,
+        "quantity": 29
+    }
+]

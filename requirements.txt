@@ -1,0 +1,6 @@
+# No external packages are required.
+# This project uses only Python's standard library (tkinter, json, os,
+# datetime, subprocess, sys).
+#
+# Tkinter ships with Python on Windows and macOS. On some Linux systems install it with:
+#   sudo apt install python3-tk
