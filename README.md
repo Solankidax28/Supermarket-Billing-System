@@ -146,6 +146,6 @@ Screenshots are not included. To add your own:
 
 ## Author
 
-- **Name:** YOUR NAME
-- **College:** YOUR COLLEGE NAME
-- **Course:** YOUR COURSE / BRANCH
+- **Name:** Dax Solanki
+- **College:** ADIT 
+- **Course:** Python
